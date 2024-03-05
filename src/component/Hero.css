@@ -1,0 +1,39 @@
+.hero-div{
+    background-image: url(./../img/pexels-burak-the-weekender-735869.jpg);
+    width: 202.1vh;
+    height: 550px;
+    background-size: cover;
+    padding: 4rem 0 0 4rem;
+}
+.hero-text{
+    text-align: center;
+    width: 30%;
+    padding-top: 20px;
+    
+}
+.hero-div h1{
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+    font-size: 45px;
+}
+.heading2{
+    color: RGB(190, 18, 60);
+}
+.Hero-btn{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.Hero-btn button{
+    height: 50px;
+}
+
+.feedback-section{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}

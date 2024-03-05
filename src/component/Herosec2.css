@@ -1,0 +1,26 @@
+.hero-sec2{
+    display: flex;
+}
+
+.hero-sec2 img{
+    width: 620px;
+    height: 488px;
+    padding: 120px 0 10px 40px;
+
+}
+.side-text{
+    width: 650px;
+    height: 630px;
+    margin-top: 40px ;
+    position: absolute;
+    margin-left: 45%;
+    background-color: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+}
+.side-innerText{
+    width: 450px;
+    height: 100px;  
+    padding: 20% 0% 0% 20%;  
+}
