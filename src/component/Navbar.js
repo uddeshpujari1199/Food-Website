@@ -10,7 +10,7 @@ function Navbar() {
           <span>GeekFoods</span>
         </div>
         <div className="part2">
-          <span>Home</span>
+          <span className="home">Home</span>
           <span>Quote</span>
           <span>Resturents</span>
           <span>Foods</span>

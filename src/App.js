@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import HomeScreen from './screen/HomeScreen'
+import QuoteScreen from './screen/QuoteScreen';
 
 function App() {
   return (
    <>
-   <HomeScreen/>
+   {/* <HomeScreen/> */}
+   <QuoteScreen/>
    </>
   );
 }
