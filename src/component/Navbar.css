@@ -20,6 +20,12 @@
     display: flex;
     flex-direction: row;
     gap: 20px;
+    color: white;
+    text-decoration: none;
+}
+.HOMECOM{
+    color: white;
+    text-decoration: none;
 }
 .home{
     color: blue;

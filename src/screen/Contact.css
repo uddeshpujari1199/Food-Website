@@ -1,0 +1,47 @@
+.main-constct{
+    display: flex;
+    gap: 50px;
+}
+.right-side{
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.right-lower{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 80%;
+    padding: 50px;
+    padding-bottom: 100px;
+    margin-top: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.left-Side{
+    
+    width: 100vh;
+
+}
+.form input{
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+.form button{
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+.form #message{
+    height: 100px;
+}
+button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
